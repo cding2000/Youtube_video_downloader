@@ -56,5 +56,3 @@ A simple and user-friendly YouTube video downloader script written in Python. Th
 This script is for educational purposes only. Respect YouTube's terms of service and use it responsibly.
 
 ---
-
-**Note:** Replace `your_image_link_here` with a link to an image representing your YouTube Video Downloader, and update other placeholders accordingly.
