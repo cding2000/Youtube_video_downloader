@@ -1,7 +1,5 @@
 # YouTube Video Downloader
 
-![YouTube Video Downloader](your_image_link_here)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -9,7 +7,6 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 - [Disclaimer](#disclaimer)
 
@@ -39,7 +36,7 @@ A simple and user-friendly YouTube video downloader script written in Python. Th
 2. Run the script:
 
     ```bash
-    python script_name.py
+    python Youtube_video_downloader.py
     ```
 
 ## Usage
@@ -48,10 +45,6 @@ A simple and user-friendly YouTube video downloader script written in Python. Th
 2. Enter the YouTube video URL when prompted.
 3. Choose a save location using the file dialog.
 4. Select the desired video resolution from the available options or let the script prompt you.
-
-## Screenshots
-
-Include screenshots or GIFs demonstrating the script in action.
 
 ## Acknowledgements
 
